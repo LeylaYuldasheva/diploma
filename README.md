@@ -14,4 +14,8 @@
     <img src="images/sample3.png" width="60%" height="60%"/>
 </p>
 
+### Результаты
+<p align=center>
+    <img src="images/result.png" width="60%" height="60%"/>
+</p>
 
